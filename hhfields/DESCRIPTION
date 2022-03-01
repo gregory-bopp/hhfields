@@ -1,0 +1,17 @@
+Package: hhfields
+Type: Package
+Title: Helmholtz-Hodge Decomposition on Bounded Domains
+Version: 1.0
+Date: 2022-03-01
+Author: Gregory Bopp
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Helmholtz-Hodge Decomposition on Bounded Domains
+License: GPL-2
+Imports: dplyr,
+		 magrittr,
+		 Matrix, 
+		 purrr,
+	 	 Rcpp (>= 1.0.6),
+	 	 sf
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
